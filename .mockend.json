@@ -1,4 +1,6 @@
-"Customer": {
-    "first_name": { "string": {} },
-    "last_name": { "string": {} },
+{
+    "Customer": {
+        "first_name": { "string": {} },
+        "last_name": { "string": {} }
+    }
 }
